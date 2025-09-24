@@ -1,0 +1,2 @@
+# PRADA
+Implementation of PRADA, a simple way to achieve aerial-ground ReID with clip、 transformer encoder, in Pytorch
